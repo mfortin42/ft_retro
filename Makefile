@@ -12,6 +12,7 @@ SRC = main.cpp \
 	  Missile.cpp \
 	  Enemy.cpp \
 	  Boss.cpp \
+	  Bonus.cpp \
 	  WeapTwoMissSameSide.cpp
 
 OBJ = $(SRC:.cpp=.o)
